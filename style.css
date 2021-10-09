@@ -53,3 +53,29 @@ section{
     background-position: right;
    
 }
+.exparince{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+
+}
+.scend-style{
+    font-size: 20px;
+}
+.exparince-aria{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#left-border{
+    border-left: 7px solid green;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+#left-border2{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,tomato);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
